@@ -46,4 +46,17 @@ Software engineer from Mongolia, living in Ulaanbaatar and currently working at 
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=purevdalai&show_icons=true&hide_border=true)
+<a href="https://github.com/Purevdalai/Purevdalai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purevdalai&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Purevdalai/Purevdalai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Purevdalai&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Purevdalai's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Purevdalai/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Purevdalai&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/Purevdalai/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Purevdalai&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
