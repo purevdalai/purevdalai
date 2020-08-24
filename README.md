@@ -1,11 +1,20 @@
 ### Hi there 👋
 <br/>
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/purevdalai-zangad/">
   <img align="left" alt="Purevdalai's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<a href="https://twitter.com/Purevdalai_z">
+  <img align="left" alt="Purevdalai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://www.instagram.com/purevdalai_zangad/">
+  <img align="left" alt="Purevdalai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
 <br/>
+
 Software engineer from Mongolia, living in Ulaanbaatar and currently working at Unimedia Solutions. Working with ReactJS, Vue.js, Express JS and AWS services.
 
 
