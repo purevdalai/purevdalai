@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**purevdalai/purevdalai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Software engineer from Mongolia, living in Ulaanbaatar and currently working at Unimedia Solutions. Working with ReactJS, Vue.js, Express JS and AWS services.
 
 - 🔭 I’m currently working on Unimedia Solutions LLC
