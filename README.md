@@ -23,7 +23,7 @@
 
 Software engineer from Mongolia, living in Ulaanbaatar and currently working at Unimedia Solutions. Working with ReactJS, Vue.js, Express JS and AWS services.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/cj88Rvc1XOY45R4CFd/giphy.gif" width="500" height="300" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/cj88Rvc1XOY45R4CFd/giphy.gif" width="380" height="200" />
 
 #### Personal stuffs
 - 🔭 I’m currently working on Unimedia Solutions LLC
@@ -54,13 +54,14 @@ Software engineer from Mongolia, living in Ulaanbaatar and currently working at 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
+
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Purevdalai/Purevdalai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purevdalai&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Purevdalai&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Purevdalai's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Purevdalai/Purevdalai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Purevdalai&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Purevdalai's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purevdalai&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!--- 
