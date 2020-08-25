@@ -23,7 +23,7 @@
 
 Software engineer from Mongolia, living in Ulaanbaatar and currently working at Unimedia Solutions. Working with ReactJS, Vue.js, Express JS and AWS services.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/cj88Rvc1XOY45R4CFd/giphy.gif" width="380" height="200" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/XHdoYEFRgEojccUV1V/giphy.gif" width="380" height="200" />
 
 #### Personal stuffs
 - 🔭 I’m currently working on Unimedia Solutions LLC
