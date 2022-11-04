@@ -26,7 +26,6 @@ Software engineer from Mongolia, living in Ulaanbaatar. Working with ReactJS, Vu
   <img align="right" alt="GIF" src="https://media.giphy.com/media/XHdoYEFRgEojccUV1V/giphy.gif" width="380" height="200" />
 
 #### Personal stuffs
-- 🔭 I’m currently working on Unimedia Solutions LLC
 - 🌱 I’m currently learning react.js and aws services
 - 🤔 I’m looking for help with Data structures and Algorithms😭
 - 💬 Ask me about anything. I am happy to help
