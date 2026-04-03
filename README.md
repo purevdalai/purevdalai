@@ -53,18 +53,3 @@ Software engineer from Mongolia, living in Tokyo, Japan. Working with ReactJS, V
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
-
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/Purevdalai/Purevdalai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Purevdalai&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Purevdalai's GitHub Stats" />
-</a>
-
-<a href="https://github.com/Purevdalai/Purevdalai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purevdalai&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<!--- 
-bhisheknaiidu
-MartinHeinz
----> 
-
